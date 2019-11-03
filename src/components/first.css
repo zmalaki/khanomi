@@ -1,0 +1,58 @@
+.ant-carousel .slick-slide {
+ 
+    height: 100px;
+    line-height: 160px;
+    background:#ADEDE9;
+    overflow: hidden;
+    width: 500px;
+    border-radius: 10px;
+
+  
+  }
+  
+  .ant-carousel .slick-slide img {
+    color: #fff;
+  }
+  .ant-breadcrumb-link {
+      padding-right: 10px;
+      font-size: 30px;;
+  }
+
+
+.cadr .ant-col-4{
+  border:1px solid gray;
+  border-radius:10px;
+   width:110px ;
+   height:110px ;
+   margin:40px
+}
+.page{
+  background-color:white;
+   padding:40px;
+    padding-top:100p;
+    margin:20px;
+    border-radius:10px
+}
+.send {
+  text-align: center;
+  font-size: 100px;
+
+}
+.ant-carousel .slick-dots li.slick-active button{
+  border-radius:50%;
+  width: 20px !important;
+  height: 20px;
+  background-color: black !important;
+
+}
+
+.ant-carousel .slick-dots li button{
+  border-radius:50% !important;
+  width: 20px !important;
+  height: 20px !important;
+  background-color: gray !important;
+ 
+
+
+}
+
